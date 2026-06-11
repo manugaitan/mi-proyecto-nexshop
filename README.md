@@ -1,6 +1,6 @@
 # NexShop Group S.A.
 
-**Alumno:** Manu Gaitán
+**Alumno:** Manuel Gaitán Martín
 
 ## Descripción del proyecto
 
